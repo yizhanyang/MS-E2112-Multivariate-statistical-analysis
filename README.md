@@ -3,4 +3,4 @@
 <br />Main Components: PCA, BCA, MCA, CCA, LDA, K-means.
 <br />Intro_R: Basics of R and RStudio.
 <br />Assignments: 10 course assignments which are implemented with R.
-<br />Project: Utilized LDA and K-Means to create a classifier of breast cancer.
+<br />Project: Utilized LDA and K-Means to create classifiers of breast cancer.
