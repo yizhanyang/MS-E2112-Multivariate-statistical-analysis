@@ -5,7 +5,7 @@ Intro_R: Basics of R and RStudio.
 Assignments: 10 course assignments which are implemented with R.  
 Project: Utilized LDA and K-Means to create classifiers of breast cancer.  
 
-# Assignments
+## Assignments
 * [Assignemnt 1: Functions](https://github.com/yizhanyang/Multivariate-statistical-analysis/blob/master/Assignments/AS1/ex1.pdf)  
 * [Assigment 2: Principal Component Analysis](https://github.com/yizhanyang/Multivariate-statistical-analysis/blob/master/Assignments/AS2/ex2.pdf)  
 * [Assignment 3: Affine Equivarience and Maximum Varience](https://github.com/yizhanyang/Multivariate-statistical-analysis/blob/master/Assignments/AS3/ex3.pdf)  
@@ -17,7 +17,7 @@ Project: Utilized LDA and K-Means to create classifiers of breast cancer.
 * [Assignment 9: Discriminant Analysis and Classification](https://github.com/yizhanyang/Multivariate-statistical-analysis/blob/master/Assignments/AS9/ex9.pdf)
 * [Assignment 10: Clustering](https://github.com/yizhanyang/Multivariate-statistical-analysis/blob/master/Assignments/AS10/ex10.pdf)
 
-# Project: Classification of Breast Cancer based on Linear Discriminant Analysis
+## Project: Classification of Breast Cancer based on Linear Discriminant Analysis
 [Project Report](https://github.com/yizhanyang/Multivariate-statistical-analysis/blob/master/Project/Project_Yizhan_Yang.pdf)  
   
 For any questions, email yizhan@kth.se
