@@ -1,9 +1,9 @@
 # MS-E2112-Multivariate-statistical-analysis
 Assignments and course project of MS-E2112 Multivariate statistical analysis, Aalto University. 
 Main Components: PCA, BCA, MCA, CCA, LDA, K-means.  
-Intro_R: Basics of R and RStudio.  
-Assignments: 10 course assignments which are implemented with R.  
-Project: Utilized LDA and K-Means to create classifiers of breast cancer.  
+`Intro_R`: Basics of R and RStudio.  
+`Assignments`: 10 course assignments which are implemented with R.  
+`Project`: Utilized LDA and K-Means to create classifiers of breast cancer.  
 
 ## Assignments
 * [Assignemnt 1: Functions](https://github.com/yizhanyang/Multivariate-statistical-analysis/blob/master/Assignments/AS1/ex1.pdf)  
